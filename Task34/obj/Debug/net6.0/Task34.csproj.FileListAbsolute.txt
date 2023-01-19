@@ -1,0 +1,15 @@
+/Users/kuzmalebedev/Desktop/Seminar 5 Homework/Task34/bin/Debug/net6.0/Task34
+/Users/kuzmalebedev/Desktop/Seminar 5 Homework/Task34/bin/Debug/net6.0/Task34.deps.json
+/Users/kuzmalebedev/Desktop/Seminar 5 Homework/Task34/bin/Debug/net6.0/Task34.runtimeconfig.json
+/Users/kuzmalebedev/Desktop/Seminar 5 Homework/Task34/bin/Debug/net6.0/Task34.dll
+/Users/kuzmalebedev/Desktop/Seminar 5 Homework/Task34/bin/Debug/net6.0/Task34.pdb
+/Users/kuzmalebedev/Desktop/Seminar 5 Homework/Task34/obj/Debug/net6.0/Task34.csproj.AssemblyReference.cache
+/Users/kuzmalebedev/Desktop/Seminar 5 Homework/Task34/obj/Debug/net6.0/Task34.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kuzmalebedev/Desktop/Seminar 5 Homework/Task34/obj/Debug/net6.0/Task34.AssemblyInfoInputs.cache
+/Users/kuzmalebedev/Desktop/Seminar 5 Homework/Task34/obj/Debug/net6.0/Task34.AssemblyInfo.cs
+/Users/kuzmalebedev/Desktop/Seminar 5 Homework/Task34/obj/Debug/net6.0/Task34.csproj.CoreCompileInputs.cache
+/Users/kuzmalebedev/Desktop/Seminar 5 Homework/Task34/obj/Debug/net6.0/Task34.dll
+/Users/kuzmalebedev/Desktop/Seminar 5 Homework/Task34/obj/Debug/net6.0/refint/Task34.dll
+/Users/kuzmalebedev/Desktop/Seminar 5 Homework/Task34/obj/Debug/net6.0/Task34.pdb
+/Users/kuzmalebedev/Desktop/Seminar 5 Homework/Task34/obj/Debug/net6.0/Task34.genruntimeconfig.cache
+/Users/kuzmalebedev/Desktop/Seminar 5 Homework/Task34/obj/Debug/net6.0/ref/Task34.dll
