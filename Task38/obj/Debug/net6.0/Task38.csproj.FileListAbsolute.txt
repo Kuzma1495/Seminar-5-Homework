@@ -1,0 +1,15 @@
+/Users/kuzmalebedev/Desktop/Seminar 5 Homework/Task38/obj/Debug/net6.0/Task38.csproj.AssemblyReference.cache
+/Users/kuzmalebedev/Desktop/Seminar 5 Homework/Task38/obj/Debug/net6.0/Task38.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kuzmalebedev/Desktop/Seminar 5 Homework/Task38/obj/Debug/net6.0/Task38.AssemblyInfoInputs.cache
+/Users/kuzmalebedev/Desktop/Seminar 5 Homework/Task38/obj/Debug/net6.0/Task38.AssemblyInfo.cs
+/Users/kuzmalebedev/Desktop/Seminar 5 Homework/Task38/obj/Debug/net6.0/Task38.csproj.CoreCompileInputs.cache
+/Users/kuzmalebedev/Desktop/Seminar 5 Homework/Task38/bin/Debug/net6.0/Task38
+/Users/kuzmalebedev/Desktop/Seminar 5 Homework/Task38/bin/Debug/net6.0/Task38.deps.json
+/Users/kuzmalebedev/Desktop/Seminar 5 Homework/Task38/bin/Debug/net6.0/Task38.runtimeconfig.json
+/Users/kuzmalebedev/Desktop/Seminar 5 Homework/Task38/bin/Debug/net6.0/Task38.dll
+/Users/kuzmalebedev/Desktop/Seminar 5 Homework/Task38/bin/Debug/net6.0/Task38.pdb
+/Users/kuzmalebedev/Desktop/Seminar 5 Homework/Task38/obj/Debug/net6.0/Task38.dll
+/Users/kuzmalebedev/Desktop/Seminar 5 Homework/Task38/obj/Debug/net6.0/refint/Task38.dll
+/Users/kuzmalebedev/Desktop/Seminar 5 Homework/Task38/obj/Debug/net6.0/Task38.pdb
+/Users/kuzmalebedev/Desktop/Seminar 5 Homework/Task38/obj/Debug/net6.0/Task38.genruntimeconfig.cache
+/Users/kuzmalebedev/Desktop/Seminar 5 Homework/Task38/obj/Debug/net6.0/ref/Task38.dll
